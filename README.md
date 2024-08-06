@@ -15,3 +15,9 @@ Any support on the code will be apreciated.
 Thanks for reading
 
 ```The owner: AlainDevelop```
+
+![ADOS logo](https://github.com/user-attachments/assets/7eb09f4d-1ce4-458b-8a24-0259e837d048)
+
+ADOS is licensed with __creative commons 1__
+
+This OS is made in spain
