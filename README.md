@@ -22,7 +22,7 @@ ADOS is licensed with __creative commons 1__
 
 This OS is made in spain
 
-**The terms of use:** _You can also find em' on the 'main.bat' code_.
+**The terms of use:** _You can also find em' on the 'main.bat' code_. (**PLEASE READ IT BEFORE INSTALLING, IF DON'T YOU CAN READ IT WHILE LOGIN**)
 
 ```When you continue you are giving the proyect the permission to create text files inside your device, these files contain things like account usernames and account passwords, these, aren't from your devide, these are from the proyect, the nick and password you have writen are going to be stored in your device, if you're not in a PC or a computer, you're accepting to use the OS *BY YOUR OWN RISK*, we won't just delete the program if you use it in a device witch is not a PC or a computer, but if you decide to do try the OS in a device witch is not made for, please, tell us your experience, it would be very apreciated, the password is ty. You need to use the password in the prompt here below the text, it is to secure that you've read all the text.```
 
